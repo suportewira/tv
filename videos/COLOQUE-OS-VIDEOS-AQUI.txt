@@ -1,0 +1,7 @@
+Coloque nesta pasta o(s) vídeo(s) que a TV deve passar em loop e rode o publicar.bat.
+
+- Formato recomendado: MP4 (H.264 + AAC). É o que toda TV toca.
+- Cada arquivo precisa ter menos de 100 MB (limite do GitHub).
+- Vários vídeos tocam em sequência, em ordem alfabética. Dica: numere
+  os nomes ("1 - abertura.mp4", "2 - promocao.mp4").
+- Para tirar um vídeo da TV, apague o arquivo daqui e publique de novo.
